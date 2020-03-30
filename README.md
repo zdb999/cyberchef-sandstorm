@@ -6,7 +6,13 @@ You can find more at it's [GitHub repository](https://github.com/gchq/cyberchef)
 
 ## Working with this port
 
-In order to build or fork this port, you must have `vagrant-spk` installed. First, clone the repository. Then run:
+In order to build or fork this port, you must have `vagrant-spk` installed. First, clone the repository with 
+
+```bash
+git clone --recurse-submodules https://github.com/zdb999/cyberchef-sandstorm
+```
+
+Then run:
 
 ```bash
 vagrant-spk vm up
