@@ -1,0 +1,3 @@
+CyberChef is a "Swiss Army Knife" data analysis tool that allows users to quickly process data with "recipes" without having to write a single purpose script. Recipes are composed of a series of operations, with tools for encoding and decoding, encryption, parsing, logic, compression and decompression, media handling, forensics, and more.
+
+CyberChef was created by a GCHQ signal intelligence analyst for internal use, and has subsequently been released under an open source license. It runs entirely inside Sandstorm's sandbox, with no internet access under any circumstances.
